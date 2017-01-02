@@ -1,0 +1,4 @@
+---
+pid: 821
+control_url: unix:///home/ubuntu/rails-project/demo/shared/sockets/pumactl.sock
+control_auth_token: 739c389ce9a1586bf453145eee4841ea
